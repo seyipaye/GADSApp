@@ -21,8 +21,4 @@ A prior knowledge of Android Application development 🙂
 
 ## Screen shots
 
-Home Screen
-
-![Screenshot_1599862137](/Users/mac/Desktop/Screenshot_1599862137.png)
-
-
+![Screenshosts](Documentation/shots.png)
